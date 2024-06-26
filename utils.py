@@ -13,7 +13,7 @@ def load_summaries():
         with open('summaries.json', 'r') as file:
             return json.load(file)
     return {}
-
+ 
 # Save summaries to a JSON file
 def save_summaries(summaries):
     with open('summaries.json', 'w') as file:
