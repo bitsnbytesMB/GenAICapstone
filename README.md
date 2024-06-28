@@ -1,7 +1,7 @@
 # GenAICapstone
 This is a LLM-PDF-Reader application to provide summaries of uploaded PDFs.
 
-# PDF Reader Tool 0.6
+# PDF Reader Tool 1.0
 
 ## Overview
 
@@ -40,6 +40,6 @@ Use the Options menu to:
 
 ## Additional Info
 
-Remember to set the OpenAI API Key in the util.py file.
+Remember to set the OpenAI API Key in the utils.py file.
 
 All summaries are automatically saved upon exiting the application (in the summaries.json file).
